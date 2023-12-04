@@ -1,0 +1,5 @@
+body{
+    background-image: radial-gradient(circle at 79% 30%, rgba(230, 230, 230,0.04) 0%, rgba(230, 230, 230,0.04) 50%,rgba(12, 12, 12,0.04) 50%, rgba(12, 12, 12,0.04) 100%),radial-gradient(circle at 53% 89%, rgba(210, 210, 210,0.04) 0%, rgba(210, 210, 210,0.04) 50%,rgba(24, 24, 24,0.04) 50%, rgba(24, 24, 24,0.04) 100%),radial-gradient(circle at 92% 89%, rgba(17, 17, 17,0.04) 0%, rgba(17, 17, 17,0.04) 50%,rgba(205, 205, 205,0.04) 50%, rgba(205, 205, 205,0.04) 100%),radial-gradient(circle at 21% 13%, rgba(124, 124, 124,0.04) 0%, rgba(124, 124, 124,0.04) 50%,rgba(243, 243, 243,0.04) 50%, rgba(243, 243, 243,0.04) 100%),radial-gradient(circle at 77% 0%, rgba(16, 16, 16,0.04) 0%, rgba(16, 16, 16,0.04) 50%,rgba(130, 130, 130,0.04) 50%, rgba(130, 130, 130,0.04) 100%),linear-gradient(90deg, rgb(247, 101, 31),rgb(249, 105, 208));
+
+    margin: 0;
+}
