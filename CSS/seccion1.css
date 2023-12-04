@@ -21,3 +21,18 @@
     margin: 0;
     font-family: 'PT Sans Caption', sans-serif;
 }
+
+@media screen and (max-width: 700px){
+    
+    .secction1 h2{
+        font-size: 28px;
+        text-align: center;
+        padding: 0 10px;
+       
+    }
+    .secction1 p{
+        font-size: 13px;
+        text-align: center;
+    }
+
+}

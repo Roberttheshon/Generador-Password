@@ -75,3 +75,12 @@ margin: 20px 0;
     background-color: rgba(10, 38, 98, 0.878);
     color: #ffffff;
 }
+
+@media screen and (max-width: 700px){
+    .main-card{
+        max-width: 300px;
+        padding: 26px;
+        font-family: 'Lato', sans-serif;
+        
+    }
+}
